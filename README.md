@@ -7,9 +7,9 @@ Project File Structure:
 Facemaskdet/                        
 ├── datasets/                        
 │     ├── with_mask/                  
-│           ├── .jpg files
+│          ├── .jpg files
 │     ├── Without_mask/                
-│           ├── .jpg files
+│          ├── .jpg files
 ├── data.npy                              
 ├── facemask.ipynb                      
 ├── haarcascade_frontalface_default.xml  
