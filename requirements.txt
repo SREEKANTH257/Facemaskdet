@@ -1,0 +1,8 @@
+Python
+Jupyter Notebook
+Tensorflow
+numpy
+matplotlib
+haarcascade_classifier
+OpenCV / CV2
+OS (py lib)
