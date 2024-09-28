@@ -10,6 +10,7 @@ Facemaskdet/
 │          ├── .jpg files
 │     ├── Without_mask/                
 │          ├── .jpg files
+│
 ├── data.npy                              
 ├── facemask.ipynb                      
 ├── haarcascade_frontalface_default.xml  
